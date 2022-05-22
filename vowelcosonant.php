@@ -10,4 +10,3 @@
      {
         echo $letter." is a Consonant";
      }
-    ?> 

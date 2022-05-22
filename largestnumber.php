@@ -15,4 +15,3 @@ if($num2>$num1 && $num2>$num3)
 else
       echo $num3 ."is largest number";
 }
-?>
